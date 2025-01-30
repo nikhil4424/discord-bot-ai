@@ -31,8 +31,7 @@ Bot Commands:
 {prefix}reload - Reloads all cogs
 {prefix}restart - Restarts the entire bot
 
-Created by @najmul (451627446941515817) (Discord Server: /yUWmzQBV4P)
-https://github.com/Najmul190/Discord-AI-Selfbot```
+Created by your dad: @sshkeygen (1311237953758036029) (Discord Server: https://discord.gg/G4aNeAmuVB)```
 """
         await ctx.send(help_text)
 
