@@ -85,7 +85,7 @@ async def on_ready():
                 pass
 
     print(
-        f"\n{Fore.LIGHTBLACK_EX}Join the Discord server for support and news on updates: https://discord.gg/yUWmzQBV4P{Style.RESET_ALL}"
+        f"\n{Fore.LIGHTBLACK_EX}Join the Discord server for support and news on updates: https://discord.gg/G4aNeAmuVB{Style.RESET_ALL}"
     )
 
     print_separator()
