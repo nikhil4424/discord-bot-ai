@@ -4,8 +4,6 @@ This is a [Python](https://www.python.org)-based Discord selfbot using the `disc
 
 > There is always the slight risk of a ban when using selfbots, so make sure to use this selfbot on an account you don't mind losing, but the risk is incredibly low and I have used it for over a year without any issues.
 
-This bot was originally [Discord-AI-Chatbot](https://github.com/mishl-dev/Discord-AI-Chatbot) by [MishalHossin](https://github.com/mishl-dev/) but was heavily edited by [Najmul190](https://github.com/najmul190) to work as a selfbot rather than a Discord bot.
-
 ### <strong> I take no responsibility for any actions taken against your account for using these selfbots, or how users use my open source code.</strong>
 
 ### <strong>Using this on a user account is prohibited by the [Discord TOS](https://discord.com/terms) and can lead to your account getting banned in _very_ rare cases.</strong>
